@@ -1,0 +1,10 @@
+I Ensure build layout
+I Check configuration tokens
+I Preparing build
+I Check requirements for android
+D Search for Git (git)
+D  -> found at /usr/local/bin/git
+D Search for Cython (cython)
+D  -> found at /tmp/chinese_android_venv/bin/cython
+D Search for Java compiler (javac)
+E Java compiler (javac) not found, please install it.
