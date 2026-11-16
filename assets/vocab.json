@@ -1,0 +1,89 @@
+{
+  "title": "Từ vựng mẫu",
+  "entries": [
+    {
+      "hanzi": "你好",
+      "pinyin": "nǐ hǎo",
+      "meaning": "Xin chào",
+      "hanviet": "Nhĩ hảo",
+      "row": 2
+    },
+    {
+      "hanzi": "谢谢",
+      "pinyin": "xièxie",
+      "meaning": "Cảm ơn",
+      "hanviet": "Tạ tạ",
+      "row": 3
+    },
+    {
+      "hanzi": "再见",
+      "pinyin": "zàijiàn",
+      "meaning": "Tạm biệt",
+      "hanviet": "Tái kiến",
+      "row": 4
+    },
+    {
+      "hanzi": "老师",
+      "pinyin": "lǎoshī",
+      "meaning": "Giáo viên",
+      "hanviet": "Lão sư",
+      "row": 5
+    },
+    {
+      "hanzi": "学生",
+      "pinyin": "xuésheng",
+      "meaning": "Học sinh",
+      "hanviet": "Học sinh",
+      "row": 6
+    },
+    {
+      "hanzi": "学校",
+      "pinyin": "xuéxiào",
+      "meaning": "Trường học",
+      "hanviet": "Học hiệu",
+      "row": 7
+    },
+    {
+      "hanzi": "朋友",
+      "pinyin": "péngyou",
+      "meaning": "Bạn bè",
+      "hanviet": "Bằng hữu",
+      "row": 8
+    },
+    {
+      "hanzi": "水",
+      "pinyin": "shuǐ",
+      "meaning": "Nước",
+      "hanviet": "Thủy",
+      "row": 9
+    },
+    {
+      "hanzi": "书",
+      "pinyin": "shū",
+      "meaning": "Sách",
+      "hanviet": "Thư",
+      "row": 10
+    },
+    {
+      "hanzi": "苹果",
+      "pinyin": "píngguǒ",
+      "meaning": "Táo",
+      "hanviet": "Bình quả",
+      "row": 11
+    },
+    {
+      "hanzi": "今天",
+      "pinyin": "jīntiān",
+      "meaning": "Hôm nay",
+      "hanviet": "Kim thiên",
+      "row": 12
+    },
+    {
+      "hanzi": "明天",
+      "pinyin": "míngtiān",
+      "meaning": "Ngày mai",
+      "hanviet": "Minh thiên",
+      "row": 13
+    }
+  ]
+}

@@ -1,0 +1,543 @@
+{
+  "version": 1,
+  "levels": [
+    {
+      "id": "L01",
+      "name": "Level 1 · Nhập môn",
+      "order": 1,
+      "lessons": [
+        {
+          "id": "G001",
+          "title": "Cấu trúc 是",
+          "hantu": "是",
+          "pinyin": "shì",
+          "meaning": "Là",
+          "formula": "Chủ ngữ + 是 + danh từ",
+          "description": "Dùng để xác định danh tính hoặc nghề nghiệp.",
+          "examples": [
+            {
+              "id": "G001E1",
+              "hantu": "我是学生。",
+              "pinyin": "Wǒ shì xuéshēng.",
+              "meaning": "Tôi là học sinh."
+            }
+          ],
+          "exercises": [
+            {
+              "id": "G001Q1",
+              "type": "multiple_choice",
+              "question": "我 ___ 学生。",
+              "answer": "是",
+              "explanation": "Dùng để xác định danh tính hoặc nghề nghiệp.",
+              "audioText": "我是学生。",
+              "pinyin": "Wǒ shì xuéshēng.",
+              "options": [
+                "有",
+                "是",
+                "在",
+                "吗"
+              ]
+            },
+            {
+              "id": "G001Q2",
+              "type": "fill_blank",
+              "question": "我 ___ 学生。",
+              "answer": "是",
+              "explanation": "Dùng để xác định danh tính hoặc nghề nghiệp.",
+              "audioText": "我是学生。",
+              "pinyin": "Wǒ shì xuéshēng."
+            },
+            {
+              "id": "G001Q3",
+              "type": "reorder",
+              "question": "Tôi là học sinh.",
+              "answer": "我是学生。",
+              "explanation": "Dùng để xác định danh tính hoặc nghề nghiệp.",
+              "audioText": "我是学生。",
+              "pinyin": "Wǒ shì xuéshēng.",
+              "tokens": [
+                "学生",
+                "我",
+                "是"
+              ]
+            },
+            {
+              "id": "G001Q4",
+              "type": "zh_to_vi",
+              "question": "我是学生。",
+              "answer": "Tôi là học sinh.",
+              "explanation": "Dùng để xác định danh tính hoặc nghề nghiệp.",
+              "audioText": "我是学生。",
+              "pinyin": "Wǒ shì xuéshēng.",
+              "acceptedAnswers": [
+                "Tôi là học sinh",
+                "Tôi là sinh viên"
+              ]
+            },
+            {
+              "id": "G001Q5",
+              "type": "vi_to_zh",
+              "question": "Tôi là học sinh.",
+              "answer": "我是学生。",
+              "explanation": "Dùng để xác định danh tính hoặc nghề nghiệp.",
+              "audioText": "我是学生。",
+              "pinyin": "Wǒ shì xuéshēng.",
+              "acceptedAnswers": [
+                "我是學生"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "L02",
+      "name": "Level 2 · Cơ bản",
+      "order": 2,
+      "lessons": [
+        {
+          "id": "G002",
+          "title": "Cấu trúc 正在",
+          "hantu": "正在",
+          "pinyin": "zhèngzài",
+          "meaning": "Đang",
+          "formula": "Chủ ngữ + 正在 + động từ",
+          "description": "Diễn tả hành động đang diễn ra.",
+          "examples": [
+            {
+              "id": "G002E1",
+              "hantu": "我正在看书。",
+              "pinyin": "Wǒ zhèngzài kàn shū.",
+              "meaning": "Tôi đang đọc sách."
+            }
+          ],
+          "exercises": [
+            {
+              "id": "G002Q1",
+              "type": "multiple_choice",
+              "question": "Tôi đang đọc sách: 我 ___ 看书。",
+              "answer": "正在",
+              "explanation": "Diễn tả hành động đang diễn ra.",
+              "audioText": "我正在看书。",
+              "pinyin": "Wǒ zhèngzài kàn shū.",
+              "options": [
+                "已经",
+                "正在",
+                "曾经",
+                "没有"
+              ]
+            },
+            {
+              "id": "G002Q2",
+              "type": "fill_blank",
+              "question": "Tôi đang đọc sách: 我 ___ 看书。",
+              "answer": "正在",
+              "explanation": "Diễn tả hành động đang diễn ra.",
+              "audioText": "我正在看书。",
+              "pinyin": "Wǒ zhèngzài kàn shū."
+            },
+            {
+              "id": "G002Q3",
+              "type": "reorder",
+              "question": "Tôi đang đọc sách.",
+              "answer": "我正在看书。",
+              "explanation": "Diễn tả hành động đang diễn ra.",
+              "audioText": "我正在看书。",
+              "pinyin": "Wǒ zhèngzài kàn shū.",
+              "tokens": [
+                "看书",
+                "我",
+                "正在"
+              ]
+            },
+            {
+              "id": "G002Q4",
+              "type": "zh_to_vi",
+              "question": "我正在看书。",
+              "answer": "Tôi đang đọc sách.",
+              "explanation": "Diễn tả hành động đang diễn ra.",
+              "audioText": "我正在看书。",
+              "pinyin": "Wǒ zhèngzài kàn shū.",
+              "acceptedAnswers": [
+                "Tôi đang đọc sách"
+              ]
+            },
+            {
+              "id": "G002Q5",
+              "type": "vi_to_zh",
+              "question": "Tôi đang đọc sách.",
+              "answer": "我正在看书。",
+              "explanation": "Diễn tả hành động đang diễn ra.",
+              "audioText": "我正在看书。",
+              "pinyin": "Wǒ zhèngzài kàn shū.",
+              "acceptedAnswers": [
+                "我正在看書"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "L03",
+      "name": "Level 3 · Sơ trung cấp",
+      "order": 3,
+      "lessons": [
+        {
+          "id": "G003",
+          "title": "Cấu trúc 比",
+          "hantu": "比",
+          "pinyin": "bǐ",
+          "meaning": "So với",
+          "formula": "A + 比 + B + tính từ",
+          "description": "Dùng để so sánh hai đối tượng.",
+          "examples": [
+            {
+              "id": "G003E1",
+              "hantu": "他比我高。",
+              "pinyin": "Tā bǐ wǒ gāo.",
+              "meaning": "Anh ấy cao hơn tôi."
+            }
+          ],
+          "exercises": [
+            {
+              "id": "G003Q1",
+              "type": "multiple_choice",
+              "question": "他 ___ 我高。",
+              "answer": "比",
+              "explanation": "Dùng để so sánh hai đối tượng.",
+              "audioText": "他比我高。",
+              "pinyin": "Tā bǐ wǒ gāo.",
+              "options": [
+                "把",
+                "比",
+                "被",
+                "吗"
+              ]
+            },
+            {
+              "id": "G003Q2",
+              "type": "fill_blank",
+              "question": "他 ___ 我高。",
+              "answer": "比",
+              "explanation": "Dùng để so sánh hai đối tượng.",
+              "audioText": "他比我高。",
+              "pinyin": "Tā bǐ wǒ gāo."
+            },
+            {
+              "id": "G003Q3",
+              "type": "reorder",
+              "question": "Anh ấy cao hơn tôi.",
+              "answer": "他比我高。",
+              "explanation": "Dùng để so sánh hai đối tượng.",
+              "audioText": "他比我高。",
+              "pinyin": "Tā bǐ wǒ gāo.",
+              "tokens": [
+                "我",
+                "高",
+                "他",
+                "比"
+              ]
+            },
+            {
+              "id": "G003Q4",
+              "type": "zh_to_vi",
+              "question": "他比我高。",
+              "answer": "Anh ấy cao hơn tôi.",
+              "explanation": "Dùng để so sánh hai đối tượng.",
+              "audioText": "他比我高。",
+              "pinyin": "Tā bǐ wǒ gāo.",
+              "acceptedAnswers": [
+                "Anh ấy cao hơn tôi",
+                "Anh ta cao hơn tôi"
+              ]
+            },
+            {
+              "id": "G003Q5",
+              "type": "vi_to_zh",
+              "question": "Anh ấy cao hơn tôi.",
+              "answer": "他比我高。",
+              "explanation": "Dùng để so sánh hai đối tượng.",
+              "audioText": "他比我高。",
+              "pinyin": "Tā bǐ wǒ gāo.",
+              "acceptedAnswers": [
+                "他比我高"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "L04",
+      "name": "Level 4 · Trung cấp",
+      "order": 4,
+      "lessons": [
+        {
+          "id": "G004",
+          "title": "Cấu trúc 把",
+          "hantu": "把",
+          "pinyin": "bǎ",
+          "meaning": "Đưa tân ngữ lên trước động từ",
+          "formula": "Chủ ngữ + 把 + tân ngữ + động từ + kết quả",
+          "description": "Nhấn mạnh cách xử lý và kết quả đối với tân ngữ.",
+          "examples": [
+            {
+              "id": "G004E1",
+              "hantu": "我把门关上了。",
+              "pinyin": "Wǒ bǎ mén guānshàng le.",
+              "meaning": "Tôi đã đóng cửa lại."
+            }
+          ],
+          "exercises": [
+            {
+              "id": "G004Q1",
+              "type": "multiple_choice",
+              "question": "我 ___ 门关上了。",
+              "answer": "把",
+              "explanation": "Nhấn mạnh cách xử lý và kết quả đối với tân ngữ.",
+              "audioText": "我把门关上了。",
+              "pinyin": "Wǒ bǎ mén guānshàng le.",
+              "options": [
+                "比",
+                "把",
+                "被",
+                "的"
+              ]
+            },
+            {
+              "id": "G004Q2",
+              "type": "fill_blank",
+              "question": "我 ___ 门关上了。",
+              "answer": "把",
+              "explanation": "Nhấn mạnh cách xử lý và kết quả đối với tân ngữ.",
+              "audioText": "我把门关上了。",
+              "pinyin": "Wǒ bǎ mén guānshàng le."
+            },
+            {
+              "id": "G004Q3",
+              "type": "reorder",
+              "question": "Tôi đã đóng cửa lại.",
+              "answer": "我把门关上了。",
+              "explanation": "Nhấn mạnh cách xử lý và kết quả đối với tân ngữ.",
+              "audioText": "我把门关上了。",
+              "pinyin": "Wǒ bǎ mén guānshàng le.",
+              "tokens": [
+                "门",
+                "我",
+                "关上了",
+                "把"
+              ]
+            },
+            {
+              "id": "G004Q4",
+              "type": "zh_to_vi",
+              "question": "我把门关上了。",
+              "answer": "Tôi đã đóng cửa lại.",
+              "explanation": "Nhấn mạnh cách xử lý và kết quả đối với tân ngữ.",
+              "audioText": "我把门关上了。",
+              "pinyin": "Wǒ bǎ mén guānshàng le.",
+              "acceptedAnswers": [
+                "Tôi đã đóng cửa",
+                "Tôi đã đóng cửa lại"
+              ]
+            },
+            {
+              "id": "G004Q5",
+              "type": "vi_to_zh",
+              "question": "Tôi đã đóng cửa lại.",
+              "answer": "我把门关上了。",
+              "explanation": "Nhấn mạnh cách xử lý và kết quả đối với tân ngữ.",
+              "audioText": "我把门关上了。",
+              "pinyin": "Wǒ bǎ mén guānshàng le.",
+              "acceptedAnswers": [
+                "我把門關上了"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "L05",
+      "name": "Level 5 · Trung cao cấp",
+      "order": 5,
+      "lessons": [
+        {
+          "id": "G005",
+          "title": "Cấu trúc 虽然…但是…",
+          "hantu": "虽然…但是…",
+          "pinyin": "suīrán…dànshì…",
+          "meaning": "Tuy… nhưng…",
+          "formula": "虽然 + mệnh đề 1，但是 + mệnh đề 2",
+          "description": "Biểu thị quan hệ nhượng bộ và tương phản.",
+          "examples": [
+            {
+              "id": "G005E1",
+              "hantu": "虽然很累，但是我很开心。",
+              "pinyin": "Suīrán hěn lèi, dànshì wǒ hěn kāixīn.",
+              "meaning": "Tuy rất mệt nhưng tôi rất vui."
+            }
+          ],
+          "exercises": [
+            {
+              "id": "G005Q1",
+              "type": "multiple_choice",
+              "question": "虽然很累，___ 我很开心。",
+              "answer": "但是",
+              "explanation": "Biểu thị quan hệ nhượng bộ và tương phản.",
+              "audioText": "虽然很累，但是我很开心。",
+              "pinyin": "Suīrán hěn lèi, dànshì wǒ hěn kāixīn.",
+              "options": [
+                "所以",
+                "但是",
+                "因为",
+                "如果"
+              ]
+            },
+            {
+              "id": "G005Q2",
+              "type": "fill_blank",
+              "question": "虽然很累，___ 我很开心。",
+              "answer": "但是",
+              "explanation": "Biểu thị quan hệ nhượng bộ và tương phản.",
+              "audioText": "虽然很累，但是我很开心。",
+              "pinyin": "Suīrán hěn lèi, dànshì wǒ hěn kāixīn."
+            },
+            {
+              "id": "G005Q3",
+              "type": "reorder",
+              "question": "Tuy rất mệt nhưng tôi rất vui.",
+              "answer": "虽然很累，但是我很开心。",
+              "explanation": "Biểu thị quan hệ nhượng bộ và tương phản.",
+              "audioText": "虽然很累，但是我很开心。",
+              "pinyin": "Suīrán hěn lèi, dànshì wǒ hěn kāixīn.",
+              "tokens": [
+                "我很开心",
+                "虽然",
+                "很累",
+                "但是"
+              ]
+            },
+            {
+              "id": "G005Q4",
+              "type": "zh_to_vi",
+              "question": "虽然很累，但是我很开心。",
+              "answer": "Tuy rất mệt nhưng tôi rất vui.",
+              "explanation": "Biểu thị quan hệ nhượng bộ và tương phản.",
+              "audioText": "虽然很累，但是我很开心。",
+              "pinyin": "Suīrán hěn lèi, dànshì wǒ hěn kāixīn.",
+              "acceptedAnswers": [
+                "Tuy rất mệt nhưng tôi rất vui",
+                "Mặc dù rất mệt nhưng tôi rất vui"
+              ]
+            },
+            {
+              "id": "G005Q5",
+              "type": "vi_to_zh",
+              "question": "Tuy rất mệt nhưng tôi rất vui.",
+              "answer": "虽然很累，但是我很开心。",
+              "explanation": "Biểu thị quan hệ nhượng bộ và tương phản.",
+              "audioText": "虽然很累，但是我很开心。",
+              "pinyin": "Suīrán hěn lèi, dànshì wǒ hěn kāixīn.",
+              "acceptedAnswers": [
+                "雖然很累但是我很開心"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "L06",
+      "name": "Level 6 · Nâng cao",
+      "order": 6,
+      "lessons": [
+        {
+          "id": "G006",
+          "title": "Cấu trúc 无论…都…",
+          "hantu": "无论…都…",
+          "pinyin": "wúlùn…dōu…",
+          "meaning": "Bất kể… đều…",
+          "formula": "无论 + điều kiện，chủ ngữ + 都 + kết quả",
+          "description": "Diễn tả kết quả không thay đổi dù điều kiện khác nhau.",
+          "examples": [
+            {
+              "id": "G006E1",
+              "hantu": "无论多忙，我都坚持学习。",
+              "pinyin": "Wúlùn duō máng, wǒ dōu jiānchí xuéxí.",
+              "meaning": "Dù bận đến đâu, tôi vẫn kiên trì học tập."
+            }
+          ],
+          "exercises": [
+            {
+              "id": "G006Q1",
+              "type": "multiple_choice",
+              "question": "无论多忙，我 ___ 坚持学习。",
+              "answer": "都",
+              "explanation": "Diễn tả kết quả không thay đổi dù điều kiện khác nhau.",
+              "audioText": "无论多忙，我都坚持学习。",
+              "pinyin": "Wúlùn duō máng, wǒ dōu jiānchí xuéxí.",
+              "options": [
+                "才",
+                "都",
+                "只",
+                "又"
+              ]
+            },
+            {
+              "id": "G006Q2",
+              "type": "fill_blank",
+              "question": "无论多忙，我 ___ 坚持学习。",
+              "answer": "都",
+              "explanation": "Diễn tả kết quả không thay đổi dù điều kiện khác nhau.",
+              "audioText": "无论多忙，我都坚持学习。",
+              "pinyin": "Wúlùn duō máng, wǒ dōu jiānchí xuéxí."
+            },
+            {
+              "id": "G006Q3",
+              "type": "reorder",
+              "question": "Dù bận đến đâu, tôi vẫn kiên trì học tập.",
+              "answer": "无论多忙，我都坚持学习。",
+              "explanation": "Diễn tả kết quả không thay đổi dù điều kiện khác nhau.",
+              "audioText": "无论多忙，我都坚持学习。",
+              "pinyin": "Wúlùn duō máng, wǒ dōu jiānchí xuéxí.",
+              "tokens": [
+                "我",
+                "都",
+                "坚持学习",
+                "无论",
+                "多忙"
+              ]
+            },
+            {
+              "id": "G006Q4",
+              "type": "zh_to_vi",
+              "question": "无论多忙，我都坚持学习。",
+              "answer": "Dù bận đến đâu, tôi vẫn kiên trì học tập.",
+              "explanation": "Diễn tả kết quả không thay đổi dù điều kiện khác nhau.",
+              "audioText": "无论多忙，我都坚持学习。",
+              "pinyin": "Wúlùn duō máng, wǒ dōu jiānchí xuéxí.",
+              "acceptedAnswers": [
+                "Dù bận đến đâu tôi vẫn kiên trì học tập",
+                "Bất kể bận thế nào tôi vẫn kiên trì học tập"
+              ]
+            },
+            {
+              "id": "G006Q5",
+              "type": "vi_to_zh",
+              "question": "Dù bận đến đâu, tôi vẫn kiên trì học tập.",
+              "answer": "无论多忙，我都坚持学习。",
+              "explanation": "Diễn tả kết quả không thay đổi dù điều kiện khác nhau.",
+              "audioText": "无论多忙，我都坚持学习。",
+              "pinyin": "Wúlùn duō máng, wǒ dōu jiānchí xuéxí.",
+              "acceptedAnswers": [
+                "無論多忙我都堅持學習"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

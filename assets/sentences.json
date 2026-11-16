@@ -1,0 +1,61 @@
+{
+  "title": "Ghép câu mẫu",
+  "entries": [
+    {
+      "hanzi": "我 喜欢 学习 中文 。",
+      "pinyin": "wǒ xǐhuān xuéxí Zhōngwén",
+      "meaning": "Tôi thích học tiếng Trung.",
+      "hanviet": "",
+      "row": 2
+    },
+    {
+      "hanzi": "你 叫 什么 名字 ？",
+      "pinyin": "nǐ jiào shénme míngzi",
+      "meaning": "Bạn tên là gì?",
+      "hanviet": "",
+      "row": 3
+    },
+    {
+      "hanzi": "我 是 越南人 。",
+      "pinyin": "wǒ shì Yuènán rén",
+      "meaning": "Tôi là người Việt Nam.",
+      "hanviet": "",
+      "row": 4
+    },
+    {
+      "hanzi": "今天 天气 很 好 。",
+      "pinyin": "jīntiān tiānqì hěn hǎo",
+      "meaning": "Hôm nay thời tiết rất đẹp.",
+      "hanviet": "",
+      "row": 5
+    },
+    {
+      "hanzi": "我 想 喝 水 。",
+      "pinyin": "wǒ xiǎng hē shuǐ",
+      "meaning": "Tôi muốn uống nước.",
+      "hanviet": "",
+      "row": 6
+    },
+    {
+      "hanzi": "他 是 我 的 老师 。",
+      "pinyin": "tā shì wǒ de lǎoshī",
+      "meaning": "Anh ấy là giáo viên của tôi.",
+      "hanviet": "",
+      "row": 7
+    },
+    {
+      "hanzi": "我们 一起 去 学校 。",
+      "pinyin": "wǒmen yìqǐ qù xuéxiào",
+      "meaning": "Chúng ta cùng đi đến trường.",
+      "hanviet": "",
+      "row": 8
+    },
+    {
+      "hanzi": "我 的 朋友 喜欢 我 的 猫 。",
+      "pinyin": "wǒ de péngyou xǐhuān wǒ de māo",
+      "meaning": "Bạn của tôi thích con mèo của tôi.",
+      "hanviet": "",
+      "row": 9
+    }
+  ]
+}
